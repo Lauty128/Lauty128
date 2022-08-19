@@ -29,3 +29,7 @@
 ### Bases de Datos
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+[VER CV](https://drive.google.com/file/d/1Ua2w9ajelEYGCcHspC9fgShWjcA6WF-t/view?usp=sharing)
+

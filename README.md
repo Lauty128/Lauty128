@@ -19,7 +19,7 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-> Quería aclarar que voy más por el lado de Front-End. Tengo un vistazo con NodeJS, utilizando ExpressJs, y php, pero solo practicando con proyectos personales que no son públicos. De momento domino HTML, CSS y JavaScript
+> Quería aclarar que voy más por el lado de Front-End. Tengo un vistazo con NodeJS, utilizando ExpressJs, y php, pero solo practicando con proyectos personales que no son públicos. De momento "domino" HTML, CSS y JavaScript
 
 ### Herramientas
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

@@ -1,7 +1,7 @@
 # :raising_hand_man: Hola, mi nombre es Lautaro
 
 ### :bookmark_tabs: Sobre Mi
-  :computer: **Desarrollador Front-End Junior**\
+  :computer: **Desarrollador Front-End**\
   :round_pushpin: **Objetivos**: Continuar con el desarrollo de mis conocimientos\
   :bulb: **Metas del 2022**: Conseguir un empleo para obtener experiencia\
   :closed_book: **Ingles**: Muy Basico - Practico dia a dia

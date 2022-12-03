@@ -31,5 +31,6 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-[VER CV](https://drive.google.com/file/d/1Ua2w9ajelEYGCcHspC9fgShWjcA6WF-t/view?usp=sharing)
-
+![information](https://github-readme-stats.vercel.app/api/top-langs/?username=lauty128)
+    
+[LINK DE CV](https://drive.google.com/file/d/1Ua2w9ajelEYGCcHspC9fgShWjcA6WF-t/view?usp=sharing)

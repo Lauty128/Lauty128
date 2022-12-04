@@ -24,6 +24,7 @@
 > Quería aclarar que voy más por el lado de Front-End. Tengo un vistazo con NodeJS, utilizando ExpressJs, y php, pero solo practicando con proyectos personales que no son públicos. De momento "domino" HTML, CSS y JavaScript
 
 ### Herramientas
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)

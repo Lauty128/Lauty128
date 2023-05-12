@@ -3,7 +3,6 @@
 ### :bookmark_tabs: Sobre Mi
   :computer: **Desarrollador Front-End**\
   :round_pushpin: **Objetivos**: Continuar con el desarrollo de mis conocimientos\
-  :bulb: **Metas del 2022**: Conseguir un empleo para obtener experiencia\
   :closed_book: **Ingles**: Muy básico - Práctico día a día
   
 ### Lenguajes
@@ -19,8 +18,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![fontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-> Quería aclarar que voy más por el lado de Front-End. Tengo un vistazo con NodeJS, utilizando ExpressJs, con el fin de proveer a mi proyecto de una API personal. 
 
 ### Herramientas
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
